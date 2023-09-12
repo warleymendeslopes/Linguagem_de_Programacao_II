@@ -1,1 +1,5 @@
-# Linguagem_de_Programacao_II
+# CONTEXTUALIZAÇÃO DA ATIVIDADE
+Um algoritmo é uma sequência lógica de instruções para realizar uma determinada tarefa. Estas instruções definidas por algoritmos, podem ser uma receita de bolo, manual de instruções de um aparelho qualquer, uma sequência para somar dois números, etc. Desde que estas instruções sigam uma sequência lógica e tenham início e fim. A linguagem de programação é um conjunto de símbolos e regras de sintaxe que permitem a construção de sentenças que descrevem de forma precisa ações compreensíveis e executáveis para o computador. Dentro dos inúmeros tipos de linguagens de programação, a linguagem de programação C é uma linguagem de programação que há muito tempo está consolidada no mercado e é extensamente utilizada como meio didático para o ensino de Linguagens de Programação e Programação de Computadores. Baseado nisso, este estudo dirigido visa estimular a aplicação dos conhecimentos básicos de construção de algoritmos em linguagens de programção, especificamente a linguagem C.
+
+# PROPOSTA DA ATIVIDADE
+Mediante o contexto apresentado, desenvolva um algoritmo na linguagem de programação C que leia o nome e o peso de 5 pessoas e retorne na tela a média aritmética dos pesos e também retorne quantas pessoas estão com o peso acima do peso médio e seus respectivos nomes.
